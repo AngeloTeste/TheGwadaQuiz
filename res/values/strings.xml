@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GwadaQuiz</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="question_km">Question 1: La guadeloupe se situe à 8000km de la France.</string>
+    <string name="question_code">Question 2: Le code départementale de la guadeloupe est 972.</string>
+    <string name="question_superficie">Question 3: La guadeloupe a une superficie de 1434 km².</string>
+    <string name="question_volcan">Question 4: La Soufrière est le plus haut sommet des petites antilles.</string>
+    <string name="question_saison">Question 5: On distingue 4 saisons en Guadeloupe.</string>
+    <string name="question_karukera">Question 6: l\'île Karukera signifie l\'île aux belles fleurs.</string>
+    <string name="question_1794">Question 7: Chritophe Colomb a découvert la guadeloupe en 1794.</string>
+    <string name="question_britannique">Question 8: Les britanniques ont conservés la guadeloupe durant 4 ans.</string>
+    <string name="question_suede">Question 9: La guadeloupe a appartenu à la suède.</string>
+    <string name="question_counia">Question 10: "le cou de ta maman est nu" est à l\'origine d\'une insulte en créole.</string>
+    <string name="question_delgres">Question 11: "Vivre ou mourir" sont les dernières paroles de Bonaparte.</string>
+    <string name="question_indien">Question 12: En 1854, les premiers indiens arrivent en guadeloupe.</string>
+    <string name="question_14fevrier">Question 13: le Massacre de la Saint-Valentin a eu lieu un 14 février.</string>
+    <string name="question_departement">Question 14: le département de la Guadeloupe intègre Saint-Barthélemy et Saint-Martin.</string>
+    <string name="question_lkp">Question 15: Une grève général de 44 jours a été réalisé par le Liyannag Kont Pwotestatyon.</string>
+    <string name="question_population">Question 16: En Guadeloupe nous avons une population supérieur à 450000 habitants.</string>
+    <string name="question_composition">Question 17: Plus de trois quart de la population est noirs ou mulâtres.</string>
+    <string name="question_blanc">Question 18: Moins de 5% de la population est blanche.</string>
+    <string name="question_farce">Question 19: Le plus important journal de l\'île est le Farce-Antilles.</string>
+    <string name="question_dom">Question 20: la Guadeloupe est un DOM-ROM.</string>
+   
+    <string name="answer_km">Paris est à environ 8000km de Raizet, mais la distance de la guadeloupe à la France est 6200km </string>
+    <string name="answer_code">972 est le code postal de la martinique, celui de la guadeloupe est 971</string>
+    <string name="answer_superficie"> 848km² pour la Basse-Terre et 586 km² pour la Grande-Terre</string>
+    <string name="answer_volcan">Avec 1434km², la Soufrière est le plus haut sommet des petites antilles</string>
+    <string name="answer_saison">Il y a deux saisons: sèche et humide respectivement carême et hivernage</string>
+    <string name="answer_karukera">Karukera signifie l\'ile aux belles eaux</string>
+    <string name="answer_1794">Colomb l\'a découvert en 1493, 1794 est la date de la première abolition de l\'escalvage</string>
+    <string name="answer_britannique">De 1759 à 1763, les britanniques s\'embaraient de la guadeloupe</string>
+    <string name="answer_suede"> Les britanniques ont cédés la Guadeloupe à Suède en 1813</string>
+    <string name="answer_counia">Cette insulte traduit en français est souvent utilisée c\'est le fameux counia ma   restons polis</string>
+    <string name="answer_delgre"> "Vivre ou mourir" sont les dernières paroles de Louis Delgrès</string>
+    <string name="answer_indien"> Les premiers indiens, débarqués en Guadeloupe, viennent de Pondichéry, Calcutta</string>
+    <string name="answer_14fevrier">Le 14 février 1952, les militaires français ont eu l\'ordre de tirer sur la foule</string>
+    <string name="answer_departement">Saint-Barthélemy et Saint-Martin sont des Collectivités d\'Outre-Mer (COM)</string>
+    <string name="answer_lkp">Le LKP est l\'abréviation de Liyannag Kont Pwofitasyon</string>
+    <string name="answer_population">Actuellement, nous devrons être pas loin des 470 000 habitans en Guadeloupe.</string>
+    <string name="answer_composition">72% de population est noirs ou mulâtres dans notre île</string>
+    <string name="answer_blanc">9% de la population est caucasiens(blanc) en Guadeloupe</string>
+    <string name="answer_farce">Le Farce-Antilles est une parodie du France-Antilles</string>
+    <string name="answer_dom">Depuis 2003, l\'île est un Département et Région d\'Outre-Mer d\'où DOM-ROM </string>
+    
+    <string name="welcome"> Bienvenue au GwadaQuiz</string>
+    <string name="explain"> GwadaQuiz est une application Bêta de quizz sur la Guadeloupe afin de trouver d\'avantage de questions qui peut-être données directement sur le groupe FB GwadaQuiz. Vous allez devoir répondre à 20 questions par vrai ou faux. Les réponses vont s\'afficher directement, un score vous sera donné à la fin. Bonne chance.</string>
+
+    <string name="begin"> Commencez</string>
+    
+    
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="correct_toast">Exacte</string>
+    <string name="incorrect_toast">Inexacte</string>
+    <string name="next_button">Question suivante</string>
+
+</resources>
